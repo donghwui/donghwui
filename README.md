@@ -7,5 +7,6 @@
 - 💻 Programming languages: `C`, `C++`, `C#`, `Python` `JavaScript`, `HTML/CSS`
 - ⚙️ Framework / Development Tools: `Git`, `Raspberry Pi`, `WebGL`, `Atom`, `React.js`, `Node.js`, `MySQL Database`
 - 📚 Relevant Courses: C Programming Principles, Introduction to Methods of Software Engineering, Introduction to Data Abstraction & Implementation 
+- 🌐 Personal website: https://donghwui.github.io/
 - 📧 email: donghwui.kim@uwaterloo.ca
 - 🔗 Feel free to connect me on <a href="https://www.linkedin.com/in/donghwui/">LinkedIn</a> :)
