@@ -1,6 +1,4 @@
 # Hello World, I'm Donghwui👋
----
-
 ### I'm a software engineering student @ University of Waterloo
 ---
 ### Skills & Experience
