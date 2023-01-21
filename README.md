@@ -1,5 +1,5 @@
 # Hello World, I'm Donghwui👋
-### I'm a software engineering student @ University of Waterloo https://uwaterloo.ca/
+### I'm a software engineering student @ <a href="https://uwaterloo.ca/">University of Waterloo</a>
 ---
 ### Skills & Experience
 - 👨🏻‍💻 Previous junior software developer at <a href="https://xpertvr.ca/">XpertVR</a>
