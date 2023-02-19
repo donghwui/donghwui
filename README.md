@@ -1,9 +1,8 @@
 # Hello World, I'm Donghwui👋
-### I'm a software engineering student @ <a href="https://uwaterloo.ca/">University of Waterloo </a>
+### Incoming Software Engineer Intern @ <a href="https://www.dematic.com/en-ca/">Dematic</a> || Software Engineering Student @ <a href="https://uwaterloo.ca/">University of Waterloo </a>
 ---
 ### Skills & Experience
-- 👨🏻‍💻 Incoming software engineer at <a href="https://www.dematic.com/en-ca/">Dematic</a>, #1 worldwide Warehouse Automation Supplier
-- 👨🏻‍💻 Previous junior software engineer at <a href="https://xpertvr.ca/">XpertVR</a>
+- 👨🏻‍💻 **Work**: Previous software engineer intern @ <a href="https://xpertvr.ca/">XpertVR</a>
 - 💻 **Programming Languages:** `C`, `C++`, `C#`, `JavaScript`, `Python`  `HTML/CSS`, `SQL`
 - ⚙️ **Framework / Development Tools:** `React`, `Node.js`, `Git`, `GitHub`, `Atom`, `MySQL Database`, `WebGL`, `jQuery`, `Raspberry Pi`, `Bootstrap`
 - 📚 **Relevant Courses:** C Programming Principles, Introduction to Methods of Software Engineering, Introduction to Data Abstraction & Implementation 
