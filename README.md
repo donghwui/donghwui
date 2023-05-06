@@ -1,5 +1,5 @@
 # Hello World, I'm Donghwui👋
-### Incoming Software Engineer Intern @ <a href="https://www.dematic.com/en-ca/">Dematic</a> || Software Engineering Student @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a>
+### SWE @ <a href="https://www.dematic.com/en-ca/">Dematic</a> || Software Engineering Student @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a>
 
 ### Skills & Experience
 - 👨🏻‍💻 **Work**: Previous software engineer intern @ <a href="https://xpertvr.ca/">XpertVR</a>
