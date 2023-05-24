@@ -9,6 +9,5 @@
 
 ---
 ### Contact Me!
-- 🌐 **Personal Website**: https://donghwui.github.io/
 - 📧 **Email**: donghwui.kim@uwaterloo.ca
 - 🔗 **Linked in**: https://www.linkedin.com/in/donghwui/
