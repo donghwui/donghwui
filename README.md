@@ -3,9 +3,9 @@
 
 ### Skills & Experience
 - 👨🏻‍💻 **Work**: Previous software engineer intern @ <a href="https://xpertvr.ca/">XpertVR</a>
-- 💻 **Programming Languages:** `C`, `C++`, `C#`, `JavaScript`, `Python`  `HTML/CSS`, `SQL`
-- ⚙️ **Framework / Development Tools:** `React`, `Node.js`, `Git`, `GitHub`, `Atom`, `MySQL Database`, `WebGL`, `jQuery`, `Raspberry Pi`, `Bootstrap`
-- 💬 **Let's chat about**: AR/VR Development, AI/ML, Algorithms, UI/UX, projects/work opportunities
+- 💻 **Languages / Framework:** `C/C++`, `C#`, `Python`, `JavaScript`, `HTML/CSS`, `SQL`, `Node.js`, `React`, `Cake.Unity`, `TensorFlow`, `Django`, `REST API`
+- ⚙️ **Technologies / Infra:** `Linux`, `Git`, `Unity`, `AWS`, `Microsoft Azure`, `Docker`, `Postman`, `Kubernetes`, `Bash`, `CI/CD`, `MySQL`
+- 💬 **Let's chat about**: AR/VR Development, AI/ML, Cloud Engineering, Algorithms, UI/UX, Full-Stack, projects/work opportunities
 - 📚 **Relevant Courses:** C Programming Principles, Introduction to Methods of Software Engineering, Introduction to Data Abstraction & Implementation 
 
 ---
