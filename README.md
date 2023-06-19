@@ -12,3 +12,4 @@
 ### Contact Me!
 - 📧 Send me an email: donghwui.kim@uwaterloo.ca
 - 🔗 Connect with me on <a href="https://www.linkedin.com/in/donghwui/">LinkedIn</a>
+- 🏠 Visit my <a href="www.donghwui.com">Personal Website </a> to learn more!
