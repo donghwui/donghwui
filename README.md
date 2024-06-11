@@ -1,5 +1,5 @@
 # Hello World, I'm Donghwui👋
-### Software Engineering @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a> | SWE @ <a href="https://www.borealisai.com/"> RBC Borealis AI </a>
+### Software Engineering @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a> | Prev @ <a href="https://www.borealisai.com/"> RBC Borealis AI </a>
 
 ### Skills & Experience
 - 👨🏻‍💻 **Work**: Previous **software engineer intern** @ <a href="https://www.dematic.com/en-ca/">Dematic</a> and **software developer intern** @ <a href="https://xpertvr.ca/">XpertVR</a>
