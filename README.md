@@ -2,7 +2,7 @@
 ### Software Engineering @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a> | Prev AI @  <a href="https://www.trendmicro.com/en_ca/business.html"> Trend Micro </a>, <a href="https://rbcborealis.com/"> RBC Borealis </a>
 
 ### Skills & Experience
-- 👨🏻‍💻 **Work**: Previous SWE @ <a href="https://www.trendmicro.com/en_ca/business.html"> Borealis AI </a>, ML SWE @ <a href="https://rbcborealis.com/"> Borealis AI </a>, SWE @ <a href="https://www.dematic.com/en-ca/">Dematic</a>, SWE @ <a href="https://xpertvr.ca/">XpertVR</a>
+- 👨🏻‍💻 **Work**: Previous SWE @ <a href="https://www.trendmicro.com/en_ca/business.html"> Trend Micro </a>, ML SWE @ <a href="https://rbcborealis.com/"> Borealis AI </a>, SWE @ <a href="https://www.dematic.com/en-ca/">Dematic</a>, SWE @ <a href="https://xpertvr.ca/">XpertVR</a>
 - 💻 **Languages:** `Python` `C/C++` `C#` `JavaScript` `TypeScript` `HTML/CSS` `SQL` `KQL`
 - 🌐 **Web App Tools:** `Django` `Flask` `React` `Angular` `Node.js` `Next.js` `Vue.js` `Tailwind CSS` `Three.js`
 - 🤖 **ML Tools:** `PyTorch` `Kubeflow` `HuggingFace` `Transformers` `Scikit-learn` `Numpy` `NLTK` `SpaCy` `Pandas` `TensorFlow` `LangChain`
