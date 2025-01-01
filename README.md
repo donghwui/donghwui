@@ -7,7 +7,7 @@
 - 🌐 **Web App Tools:** `Django` `Flask` `React` `Angular` `Node.js` `Next.js` `Vue.js` `Tailwind CSS` `Three.js`
 - 🤖 **ML Tools:** `PyTorch` `Kubeflow` `HuggingFace` `Transformers` `Scikit-learn` `Numpy` `NLTK` `SpaCy` `Pandas` `TensorFlow` `LangChain`
 - ⚙️ **Infra & Tech:** `Kubernetes` `Docker` `ADX` `Jenkins` `OCP` `GHA` `Azure` `MongoDB` `GCP` `AWS` `Unity` `ClickHouse` `Postgres` `MySQL` 
-- 💬 **Let's chat about**: AI/ML, Data Science, Algorithms, Full-Stack App Development, AR/VR, projects/work opportunities
+- 💬 **Let's chat about**: AI/ML, Data Science, Algorithms, Full-Stack App Development, AR/VR, projects/work/reserach opportunities
 ---
 ### Contact Me!
 - 📧 Send me an email: donghwui.kim@uwaterloo.ca
