@@ -2,7 +2,7 @@
 ### Intern of Technical Staff @ Cohere | Software Engineering @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a> | Prev SWE @  <a href="https://www.trendmicro.com/en_ca/business.html"> Trend Micro </a>, <a href="https://rbcborealis.com/"> RBC Borealis </a>
 
 ### Skills & Experience
-- 👨🏻‍💻 **Work**: Intern of Technical Staff @ <a href="https://cohere.com/">Cohere</a>, Previous SWE @ <a href="https://www.trendmicro.com/en_ca/business.html"> Trend Micro</a>, ML SWE @ <a href="https://rbcborealis.com/">Borealis AI</a>, SWE @ <a href="https://www.dematic.com/en-ca/">Dematic</a>, SWE @ <a href="https://xpertvr.ca/">XpertVR</a>
+- 👨🏻‍💻 **Work**: Intern of Technical Staff @ <a href="https://cohere.com/">Cohere</a>, Previous SWE @ <a href="https://www.trendmicro.com/en_ca/business.html"> Trend Micro</a>, <a href="https://rbcborealis.com/">Borealis AI</a>, <a href="https://www.dematic.com/en-ca/">Dematic</a>, <a href="https://xpertvr.ca/">XpertVR</a>
 - 🧪 **Research**: <a href="https://www.jeffjianzhao.com/team">IoTangibleT(W25)</a> with Dr. Kimi Ce Zhong, <a href="https://github.com/donghwui/touchsim">Haptic Feedback(F23)</a> with Dr. Anchit Mishra
 - 💻 **Languages:** `Python` `C/C++` `C#` `JavaScript` `TypeScript` `HTML/CSS` `SQL` `KQL`
 - 🌐 **Web App Tools:** `Django` `Flask` `React` `Angular` `Node.js` `Next.js` `Vue.js` `Tailwind CSS` `Three.js`
