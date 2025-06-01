@@ -1,5 +1,5 @@
 # Hello World, I'm Donghwui👋
-### Intern of Technical Staff @ Cohere | Software Engineering @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a> | Prev SWE @  <a href="https://www.trendmicro.com/en_ca/business.html"> Trend Micro </a>, <a href="https://rbcborealis.com/"> RBC Borealis </a>
+### Intern of Technical Staff @ <a href="https://cohere.com/">Cohere</a> | Software Engineering + AI @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a>
 
 ### Skills & Experience
 - 👨🏻‍💻 **Work**: Intern of Technical Staff @ <a href="https://cohere.com/">Cohere</a>, Previous SWE @ <a href="https://www.trendmicro.com/en_ca/business.html"> Trend Micro</a>, <a href="https://rbcborealis.com/">Borealis AI</a>, <a href="https://www.dematic.com/en-ca/">Dematic</a>, <a href="https://xpertvr.ca/">XpertVR</a>
